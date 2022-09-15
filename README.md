@@ -11,6 +11,10 @@ Thankfully, Christian from Tchibo agreed to this. The Idea is that companies cou
 
 September 2022, Hannes
 
+# Versions:
+[Engineering excellency-0.95](2022-08-11 - Engineering excellency- the Software developer development path - from junior to principal-0.95.pdf)
+
+
 
 ## License 
 
