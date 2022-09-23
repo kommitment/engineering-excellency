@@ -21,6 +21,8 @@ Authors:
 Repository: [https://github.com/kommitment/engineering-excellency](https://github.com/kommitment/engineering-excellency)<br>
 Website: [https://kommitment.github.io/engineering-excellency/](https://kommitment.github.io/engineering-excellency/)
 
+some mote test info
+
 ## About the genesis of this document
 This started in August 2022, when Tchibo asked me (Hannes) to help them with reviewing their junior, professional, and senior software development career levels. I then felt a little reluctance to do that again, but then I did not find my notes from similar work in previous companies, and so I started by writing the “Why” chapter.
 Then I caught fire on the subject, and soon I invited more people to join and give their views on the subject. Right now (September 2022) we have a regular meeting with Eberhard Wolff and Robert Albrecht on Fridays and many people left valuable comments. 
