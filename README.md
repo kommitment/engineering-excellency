@@ -18,7 +18,7 @@ Authors:
 * [Eberhard Wolff](https://www.linkedin.com/in/eberhardwolff/)
 * [Johannes Mainusch](https://www.linkedin.com/in/johannes-mainusch-4a54529/)
 
-Repository: [https://github.com/kommitment/engineering-excellency](https://kommitment.github.io/engineering-excellency/)<br>
+Repository: [https://github.com/kommitment/engineering-excellency](https://github.com/kommitment/engineering-excellency)<br>
 Website: [https://kommitment.github.io/engineering-excellency/](https://kommitment.github.io/engineering-excellency/)
 
 ## About the genesis of this document
