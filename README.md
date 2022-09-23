@@ -1,10 +1,11 @@
 <center>
-![](https://kommitment.github.io/engineering-excellency/images/mushrooms.jpg)
-
+![mushrooms](https://kommitment.github.io/engineering-excellency/images/mushrooms.jpg)
 
 image2
 
-![](images/mushrooms.jpg)
+![](./images/mushrooms.jpg)
+
+
 
 
 # Engineering excellency
