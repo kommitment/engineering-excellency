@@ -1,5 +1,6 @@
 <center>
-![](https://github.com/kommitment/engineering-excellency)
+![](https://kommitment.github.io/engineering-excellency/images/mushrooms.png)
+
 
 image2
 _
