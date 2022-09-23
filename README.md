@@ -1,5 +1,12 @@
+<center>
 # Engineering excellency
 How to build a product development organization that excels in developing and nurturing its talent as part of becoming a better performing company
+</center>
+
+Authors: 
+[Robert Albrecht](https://www.linkedin.com/in/robert-albrecht-96b5a62/)
+[Eberhard Wolff](https://www.linkedin.com/in/eberhardwolff/)
+[Johannes Mainusch](https://www.linkedin.com/in/johannes-mainusch-4a54529/)
 
 ## https://kommitment.github.io/engineering-excellency
 
