@@ -8,8 +8,8 @@ How to build a product development organization that excels in developing and nu
 Authors: 
 * [Robert Albrecht](https://www.linkedin.com/in/robert-albrecht-96b5a62/)
 * [Eberhard Wolff](https://www.linkedin.com/in/eberhardwolff/)
-* [Johannes Mainusch](https://www.linkedin.com/in/johannes-mainusch-4a54529/) 
-Repository: [https://github.com/kommitment/engineering-excellency](https://kommitment.github.io/engineering-excellency/) 
+* [Johannes Mainusch](https://www.linkedin.com/in/johannes-mainusch-4a54529/)<br>
+Repository: [https://github.com/kommitment/engineering-excellency](https://kommitment.github.io/engineering-excellency/)<br>
 Website: [https://kommitment.github.io/engineering-excellency/](https://kommitment.github.io/engineering-excellency/)
 
 ## About the genesis of this document
