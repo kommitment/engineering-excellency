@@ -1,5 +1,9 @@
 <center>
-![](./images/mushrooms.png)
+![](https://kommitment.github.io/engineering-excellency/images/mushrooms.png)
+
+![](images/mushrooms.png)
+
+
 # Engineering excellency
 How to build a product development organization that excels in developing and nurturing its talent as part of becoming a better performing company
 </center>
