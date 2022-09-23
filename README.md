@@ -1,12 +1,11 @@
 <center>
-![](https://kommitment.github.io/engineering-excellency/images/mushrooms.png)
+![](https://kommitment.github.io/engineering-excellency/images/mushrooms.jpg)
 
 
 image2
-_
 
-![](images/mushrooms.png)
---
+![](images/mushrooms.jpg)
+
 
 # Engineering excellency
 How to build a product development organization that excels in developing and nurturing its talent as part of becoming a better performing company
@@ -21,7 +20,7 @@ Authors:
 Repository: [https://github.com/kommitment/engineering-excellency](https://github.com/kommitment/engineering-excellency)<br>
 Website: [https://kommitment.github.io/engineering-excellency/](https://kommitment.github.io/engineering-excellency/)
 
-some mote test info 1
+some more test info 1
 
 ## About the genesis of this document
 This started in August 2022, when Tchibo asked me (Hannes) to help them with reviewing their junior, professional, and senior software development career levels. I then felt a little reluctance to do that again, but then I did not find my notes from similar work in previous companies, and so I started by writing the “Why” chapter.
