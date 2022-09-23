@@ -7,8 +7,7 @@ Authors:
 [Robert Albrecht](https://www.linkedin.com/in/robert-albrecht-96b5a62/)
 [Eberhard Wolff](https://www.linkedin.com/in/eberhardwolff/)
 [Johannes Mainusch](https://www.linkedin.com/in/johannes-mainusch-4a54529/)
-
-## https://kommitment.github.io/engineering-excellency
+Repository: https://github.com/kommitment/engineering-excellency
 
 ## About the genesis of this document
 This started in August 2022, when Tchibo asked me (Hannes) to help them with reviewing their junior, professional, and senior software development career levels. I then felt a little reluctance to do that again, but then I did not find my notes from similar work in previous companies, and so I started by writing the “Why” chapter.
