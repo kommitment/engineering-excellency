@@ -1,6 +1,9 @@
 <center>
 ![](https://kommitment.github.io/engineering-excellency/images/mushrooms.png)
 
+image2
+_
+
 ![](images/mushrooms.png)
 
 
