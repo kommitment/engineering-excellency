@@ -31,7 +31,9 @@ Thankfully, Christian from Tchibo agreed to this. The Idea is that companies cou
 September 2022, Hannes
 
 # Versions:
-[Engineering excellency-0.95](2022-08-11 - Engineering excellency- the Software developer development path - from junior to principal-0.95.pdf). Versioning is currently done manually.
+[v0.97-Engineering excellency- the Software developer development path - from junior to principal?](v0.97-Engineering excellency- the Software developer development path - from junior to principal?.pdf)
+[Engineering excellency-0.95](2022-08-11 - Engineering excellency- the Software developer development path - from junior to principal-0.95.pdf). 
+Versioning is currently done manually.
 
 # Contribute
 We currently have the master document in google drive. To contribute, just edit the document in suggestion mode. Here is comes:
