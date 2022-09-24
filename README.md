@@ -31,8 +31,9 @@ Thankfully, Christian from Tchibo agreed to this. The Idea is that companies cou
 September 2022, Hannes
 
 # Versions:
-[v0.97-Engineering excellency](v0.97-Engineering excellency.pdf)
-[Engineering excellency-0.95](2022-08-11 - Engineering excellency- the Software developer development path - from junior to principal-0.95.pdf). 
+* [v0.97-Engineering excellency](v0.97-Engineering excellency.pdf)
+* [Engineering excellency-0.95](2022-08-11 - Engineering excellency- the Software developer development path - from junior to principal-0.95.pdf). 
+
 Versioning is currently done manually.
 
 # Contribute
