@@ -1,12 +1,7 @@
-<center>
-
 ![](images/mushrooms.jpg)
-
-
 
 # Engineering excellency
 How to build a product development organization that excels in developing and nurturing its talent as part of becoming a better performing company
-</center>
 
 
 Authors: 
