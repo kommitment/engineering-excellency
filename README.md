@@ -1,10 +1,6 @@
 <center>
-![mushrooms](https://kommitment.github.io/engineering-excellency/images/mushrooms.jpg)
 
-image2
-
-![](./images/mushrooms.jpg)
-
+![](images/mushrooms.jpg)
 
 
 
