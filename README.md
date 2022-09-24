@@ -28,7 +28,7 @@ September 2022, Hannes
 
 # Versions:
 * [v0.97-Engineering_excellency](v0.97-Engineering_excellency.pdf)
-* [v0.95-Engineering_excellency](v0.95-Engineering_excellency.pdf). 
+* [v0.95-Engineering_excellency](v0.95-Engineering_excellency.pdf)
 
 Versioning is currently done manually.
 
